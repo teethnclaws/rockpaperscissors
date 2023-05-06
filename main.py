@@ -7,3 +7,4 @@ def get_choices():
   choices = {"player": player_choice, "computer": computer_choice}
   return choices
 
+def check_win(player, computer):
